@@ -107,8 +107,8 @@ namespace move{
 
               frontLeft.spin(fwd, voltage *leftFactor, voltageUnits::volt);
               backLeft.spin(fwd, voltage *leftFactor, voltageUnits::volt);
-              frontRight.spin(fwd, voltage * 0.92 *rightFactor, voltageUnits::volt);
-              backRight.spin(fwd, voltage * 0.92 *rightFactor, voltageUnits::volt);
+              frontRight.spin(fwd, voltage *rightFactor, voltageUnits::volt);
+              backRight.spin(fwd, voltage *rightFactor, voltageUnits::volt);
             }
 
             else{
