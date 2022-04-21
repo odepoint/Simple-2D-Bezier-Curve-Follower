@@ -1,7 +1,7 @@
 # Simple-2D-Bezier-Curve-Follower
 Used during the beginning of change up
 
-Plan on cleaning this up at some point in the future for an actual open loop implementation
+Could be cleanaed up for an actual open loop implementation
 
 
 Would recommend checking out the following link for implementing a bezier curve 
